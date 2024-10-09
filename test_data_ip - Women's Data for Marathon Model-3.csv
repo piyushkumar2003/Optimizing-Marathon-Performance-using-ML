@@ -1,0 +1,681 @@
+City Name,Starting Age,Final Age,Starting Grade,Final Grade,Cost of Living
+"Alameda, CA",42,42,6,6,53171
+"Alamo, CA",29,29,5,5,53171
+"Albuquerque, NM",28,28,6,6,34501
+"Albuquerque, NM",31,31,6,6,34501
+"Ann Arbor, MI",20,20,9,9,37111
+"Argyle, TX",42,42,8,8,37582
+"Arlington, VA",39,39,9,9,43067
+"Arlington, VA",46,46,9,8,43067
+"Aspen, CO",40,40,6,6,45931
+"Aspen, CO",45,45,6,7,45931
+"Astoria, NY",37,37,7,7,49623
+"Atherton, CA",23,23,9,9,53171
+"Atlanta, GA",49,50,9,8,38747
+"Atlanta, GA",38,39,7,6,38747
+"Auburn, CA",39,39,6,6,53171
+"Auburn, CA",43,43,6,6,53171
+"Austin, TX",42,46,9,8,37582
+"Ballwin, MO",40,40,4,4,35338
+"Baltimore, MD",25,26,8,5,48235
+"Beachwood, OH",42,43,9,9,35932
+"Belmont, CA",45,47,9,8,53171
+"Belmont, CA",36,38,5,4,53171
+"Berkeley, CA",27,30,3,3,53171
+"Berkeley, CA",21,22,9,7,53171
+"Berkeley, CA",28,28,5,5,53171
+"Berkeley, CA",47,47,7,7,53171
+"Berkeley, CA",50,50,7,6,53171
+"Berkeley, CA",43,43,7,7,53171
+"Berkeley, CA",45,45,7,9,53171
+"Berkeley, CA",22,22,8,8,53171
+"Berkeley, CA",25,26,7,7,53171
+"Berkeley, CA",34,34,8,8,53171
+"Berkeley, CA",24,25,9,9,53171
+"Berkeley, CA",27,27,9,8,53171
+"Berkeley, CA",23,24,9,8,53171
+"Berkeley, CA",29,29,8,8,53171
+"Berkeley, CA",34,35,9,7,53171
+"Boise, ID",24,24,7,7,37658
+"Boise, ID",26,26,7,5,37658
+"Boston, MA",28,28,8,8,53860
+"Boston, MA",49,49,7,7,53860
+"Boston, MA",40,40,8,8,53860
+"Bostonboston, MA",51,51,7,7,53860
+"Brentwood, CA",19,22,8,9,53171
+"Brisbane, CA",46,46,7,7,53171
+"Brisbane, CA",48,49,7,7,53171
+"Broadway, WA",37,37,7,7,47231
+"Burlingame, CA",43,43,4,4,53171
+"Burlingame, CA",53,57,9,7,53171
+"Burlingame, CA",46,46,4,4,53171
+"Calabasas, CA",43,43,9,9,53171
+"Calabasas, CA",45,45,9,7,53171
+"Cambridge, MA",48,48,8,8,53860
+"Campbell, CA",38,39,9,9,53171
+"Campbell, CA",49,49,8,8,53171
+"Campbell, CA",55,55,8,8,53171
+"Campbell, CA",27,27,9,9,53171
+"Canyon Country, CA",45,45,8,8,53171
+"Canyon Country, CA",49,49,8,8,53171
+"Canyon Country, CA",51,51,8,9,53171
+"Carlsbad, CA",20,20,8,8,53171
+"Carlsbad, CA",41,42,6,7,53171
+"Carlsbad, CA",44,44,7,7,53171
+"Carlsbad, CA",29,29,7,7,53171
+"Carmel Valley, CA",48,48,8,8,53171
+"Carmel Valley, CA",56,56,8,8,53171
+"Carmichael, CA",44,44,8,8,53171
+"Carmichael, CA",50,51,8,8,53171
+"Carson City, NV",44,45,9,9,41630
+"Carson City, NV",47,47,9,8,41630
+"Castro Valley, CA",24,24,9,9,53171
+"Castro Valley, CA",29,29,9,8,53171
+"Cerritos, CA",53,54,7,6,53171
+"Chapel Hill, NC",25,25,9,9,36702
+"Chicago, IL",43,43,9,9,41395
+"Chicago, IL",26,26,9,9,41395
+"Chicago, IL",30,30,9,5,41395
+"Chico, CA",30,31,8,8,53171
+"Chico, CA",23,23,6,6,53171
+"Chino Hills, CA",31,31,9,9,53171
+"Chino Hills, CA",34,34,9,8,53171
+"Chino, CA",40,40,8,8,53171
+"Chino, CA",42,42,8,7,53171
+"Clayton, CA",32,33,8,9,53171
+"Clayton, CA",36,37,8,8,53171
+"Clovis, CA",35,35,3,3,53171
+"Colorado Springs, CO",47,47,8,9,45931
+"Colorado Springs, CO",21,21,8,8,45931
+"Colorado Springs, CO",23,23,8,6,45931
+"Columbia, MD",33,33,8,8,48235
+"Columbia, MD",35,35,8,8,48235
+"Columbus, OH",25,25,8,8,35932
+"Concord, CA",31,32,9,8,53171
+"Corona Del Mar, CA",32,32,8,8,53171
+"Corte Madera, CA",33,34,6,5,53171
+"Costa Mesa, CA",27,27,3,4,53171
+"Costa Mesa, CA",25,26,7,8,53171
+"Cupertino, CA",24,24,8,8,53171
+"Cupertino, CA",18,19,8,8,53171
+"Dallas, TX",44,45,9,8,37582
+"Daly City, CA",40,40,8,8,53171
+"Daly City, CA",42,43,8,9,53171
+"Daly City, CA",33,34,7,7,53171
+"Danville, CA",25,26,6,7,53171
+"Danville, CA",53,53,6,6,53171
+"Danville, CA",18,19,6,5,53171
+"Davis, CA",40,40,9,9,53171
+"Davis, CA",45,45,9,8,53171
+"Del Mar, CA",31,31,7,6,53171
+"Denver, CO",34,34,7,7,45931
+"Denver, CO",37,37,7,8,45931
+"Dublin, CA",39,40,8,8,53171
+"Duvall, WA",36,36,9,9,47231
+"Echo Park, CA",24,24,8,8,53171
+"El Cerrito, CA",44,48,5,5,53171
+"El Dorado Hills, CA",39,39,9,8,53171
+"El Sobrante, CA",61,61,6,6,53171
+"Elk Grove, CA",36,36,6,6,53171
+"Elk Grove, CA",39,39,6,9,53171
+"Elk Grove, CA",40,40,6,6,53171
+"Elk Grove, CA",43,43,6,7,53171
+"Elmhurst, IL",34,34,8,8,41395
+"Encinitas, CA",37,37,8,8,53171
+"Encinitas, CA",40,40,8,8,53171
+"Escondido, CA",35,35,7,7,53171
+"Escondido, CA",37,37,7,6,53171
+"Escondido, CA",42,42,6,9,53171
+"Eureka, CA",41,42,5,5,53171
+"Folsom, CA",26,26,8,8,53171
+"Folsom, CA",38,39,8,6,53171
+"Folsom, CA",42,43,6,7,53171
+"Foothill Ranch, CA",45,47,9,9,53171
+"Fort Myers, FL",60,60,6,6,40512
+"Foster City, CA",33,33,8,8,53171
+"Foster City, CA",36,38,8,8,53171
+"Franklin, ID",57,57,9,9,37658
+"Frederick, MD",47,47,7,7,48235
+"Frederick, MD",50,50,7,9,48235
+"Fremont, CA",40,40,6,6,53171
+"Fremont, CA",42,42,6,9,53171
+"Fremont, CA",25,25,6,6,53171
+"Fremont, CA",36,36,8,8,53171
+"Fremont, CA",34,34,8,8,53171
+"Fremont, CA",37,38,8,9,53171
+"Fremont, CA",43,44,7,6,53171
+"Fremont, CA",47,47,6,6,53171
+"Fremont, CA",32,32,8,8,53171
+"Fremont, CA",34,34,8,9,53171
+"Fremont, CA",33,37,9,5,53171
+"Fremont, CA",28,29,8,8,53171
+"Fremont, CA",45,45,7,7,53171
+"Fremont, CA",48,48,7,7,53171
+"Fresno, CA",22,22,9,9,53171
+"Fresno, CA",31,33,6,8,53171
+"Fresno, CA",40,41,3,5,53171
+"Fresno, CA",43,44,5,5,53171
+"Frisco, TX",41,41,8,8,37582
+"Galt, CA",58,58,7,7,53171
+"Galt, CA",61,62,7,9,53171
+"Gilroy, CA",20,20,5,5,53171
+"Gilroy, CA",22,22,5,5,53171
+"Glendale, AZ",26,28,8,9,39856
+"Grants Pass, OR",19,19,9,9,46193
+"Grants Pass, OR",21,21,9,6,46193
+"Grass Valley, CA",46,46,8,8,53171
+"Grass Valley, CA",51,51,8,8,53171
+"Hackensack, NJ",27,27,6,6,49511
+"Harlingen, TX",25,25,5,5,37582
+"Hayward, CA",29,30,7,7,53171
+"Helotes, TX",32,32,7,7,37582
+"Hermosa Beach, CA",47,52,8,7,53171
+"Hermosa Beach, CA",26,26,9,9,53171
+"Hermosa Beach, CA",28,28,9,7,53171
+"Hillsborough, CA",45,45,4,4,53171
+"Hoboken, NJ",38,38,8,8,49511
+"Honolulu, HI",43,43,8,8,55491
+"Honolulu, HI",48,48,8,8,55491
+"Hull, MA",48,49,9,9,53860
+"Hull, MA",51,51,9,9,53860
+"Irvine, CA",30,32,8,7,53171
+"Irvine, CA",59,59,7,8,53171
+"Jupiter, FL",31,31,8,8,40512
+"Kennesaw, GA",24,24,7,7,38747
+"Kensington, CA",26,27,8,9,53171
+"La Habra, CA",40,44,5,7,53171
+"La Habra, CA",51,51,7,7,53171
+"La Mesa, CA",37,37,9,9,53171
+"Lafayette, CA",35,35,8,8,53171
+"Lafayette, CA",38,38,8,9,53171
+"Lafayette, CA",22,22,7,7,53171
+"Lafayette, CA",24,24,7,7,53171
+"Lago Vista, TX",30,30,9,9,37582
+"Laguna Beach, CA",18,18,6,6,53171
+"Laguna Beach, CA",20,20,6,7,53171
+"Laguna Beach, CA",50,50,6,6,53171
+"Laguna Beach, CA",52,52,6,7,53171
+"Las Vegas, NV",37,38,8,6,41630
+"Lewiston, ID",43,43,7,7,37658
+"Lewiston, ID",45,45,7,8,37658
+"Lincoln, CA",33,33,6,6,53171
+"Lincoln, CA",36,36,6,7,53171
+"Lincoln, CA",32,32,7,7,53171
+"Livermore, CA",31,31,6,6,53171
+"Livermore, CA",33,33,6,6,53171
+"Livermore, CA",37,38,8,8,53171
+"Livermore, CA",38,39,8,8,53171
+"Long Beach, CA",34,34,8,7,53171
+"Longmeadow, MA",24,24,8,8,53860
+"Los Alamitos, CA",35,35,7,7,53171
+"Los Alamitos, CA",38,38,7,8,53171
+"Los Altos Hills, CA",48,48,8,8,53171
+"Los Altos, CA",47,47,8,7,53171
+"Los Altos, CA",40,40,8,8,53171
+"Los Altos, CA",43,43,8,9,53171
+"Los Angeles, CA",34,36,8,8,53171
+"Los Angeles, CA",42,43,7,7,53171
+"Los Angeles, CA",43,43,9,9,53171
+"Los Angeles, CA",46,47,9,8,53171
+"Los Angeles, CA",23,23,8,9,53171
+"Los Angeles, CA",33,34,9,8,53171
+"Los Gatos, CA",27,27,8,7,53171
+"Los Gatos, CA",24,26,9,9,53171
+"Los Gatos, CA",42,43,9,9,53171
+"Los Gatos, CA",46,47,9,7,53171
+"Los Gatos, CA",22,22,9,9,53171
+"Los Gatos, CA",24,25,9,6,53171
+"Los Gatos, CA",43,44,9,8,53171
+"Los Gatos, CA",46,46,8,9,53171
+"Los Gatos, CA",21,21,5,5,53171
+"Los Gatos, CA",25,25,5,6,53171
+"Louisville, CO",38,40,6,6,45931
+"Lubbock, TX",36,36,8,8,37582
+"Lynn, MA",30,30,7,8,53860
+"Mammoth Lakes, CA",22,22,6,9,53171
+"Marietta, GA",28,29,6,7,38747
+"Marina Del Rey, CA",24,24,7,7,53171
+"Martinez, CA",21,21,8,7,53171
+"Menlo Park, CA",34,35,9,6,53171
+"Menlo Park, CA",28,28,4,4,53171
+"Menlo Park, CA",45,45,9,9,53171
+"Menlo Park, CA",49,49,9,9,53171
+"Menlo Park, CA",52,52,9,9,53171
+"Mill Valley, CA",46,47,7,6,53171
+"Millbrae, CA",44,44,9,9,53171
+"Millbrae, CA",23,24,8,8,53171
+"Milpitas, CA",36,36,7,7,53171
+"Milpitas, CA",38,39,7,7,53171
+"Mobet Meadows, IL",37,37,9,9,41395
+"Modesto, CA",33,33,9,9,53171
+"Modesto, CA",36,36,9,8,53171
+"Modesto, CA",37,37,8,9,53171
+"Monrovia, CA",26,28,9,7,53171
+"Montebello, CA",24,25,6,9,53171
+"Monterey, CA",32,32,8,8,53171
+"Mountain House, CA",34,35,7,6,53171
+"Mountain House, CA",38,38,6,8,53171
+"Mountain View, CA",47,47,9,9,53171
+"Mountain View, CA",35,35,5,5,53171
+"Mountain View, CA",37,37,5,6,53171
+"Mountain View, CA",52,52,7,7,53171
+"Mountain View, CA",36,36,7,7,53171
+"Murphys, CA",36,36,8,9,53171
+"Napa, CA",44,48,8,9,53171
+"New York, NY",24,24,5,9,49623
+"New York, NY",35,35,9,8,49623
+"New York, NY",25,26,7,6,49623
+"New York, NY",34,34,7,7,49623
+"New York, NY",61,62,7,8,49623
+"New York, NY",30,32,5,5,49623
+"New York, NY",32,33,6,9,49623
+"New York, NY",27,27,8,8,49623
+"Newark, CA",22,23,8,7,53171
+"Newark, CA",40,40,8,8,53171
+"Newark, DE",41,41,8,8,44389
+"Niles, IL",38,38,9,8,41395
+"Nogales, AZ",45,46,9,8,39856
+"Nogales, AZ",48,48,8,9,39856
+"Nogales, AZ",50,50,9,7,39856
+"North Tustin, CA",33,33,8,8,53171
+"Oakland, CA",28,28,9,9,53171
+"Oakland, CA",38,38,6,6,53171
+"Oakland, CA",27,27,8,8,53171
+"Oakland, CA",31,31,6,6,53171
+"Oakland, CA",30,31,8,8,53171
+"Oakland, CA",32,32,7,7,53171
+"Oakland, CA",40,41,9,9,53171
+"Oakland, CA",29,31,6,5,53171
+"Oakland, CA",32,32,9,9,53171
+"Oakland, CA",34,34,9,8,53171
+"Orangevale, CA",34,34,8,8,53171
+"Orangevale, CA",36,36,8,8,53171
+"Oxnard, CA",26,27,7,8,53171
+"Palm Beach Gardens, FL",29,29,8,9,40512
+"Palm Desert, CA",44,46,7,7,53171
+"Palo Alto, CA",23,24,6,8,53171
+"Palo Alto, CA",26,26,8,8,53171
+"Palo Alto, CA",44,46,8,9,53171
+"Palo Alto, CA",30,30,5,5,53171
+"Palo Alto, CA",43,52,5,6,53171
+"Panorama City, CA",23,23,6,6,53171
+"Panorama City, CA",28,28,6,7,53171
+"Paradise, CA",51,51,8,8,53171
+"Paradise, CA",53,53,8,8,53171
+"Petaluma, CA",36,37,6,6,53171
+"Phelan, CA",26,26,8,8,53171
+"Phelan, CA",28,29,8,7,53171
+"Philadelphia, PA",28,29,7,6,40066
+"Phoenix, AZ",40,40,8,8,39856
+"Phoenix, AZ",42,42,8,9,39856
+"Phoenix, AZ",55,55,9,7,39856
+"Phoenix, AZ",29,30,9,9,39856
+"Piedmont, CA",19,19,5,5,53171
+"Piedmont, CA",22,22,5,6,53171
+"Pinole, CA",57,57,6,7,53171
+"Pinon Hills, CA",48,48,9,9,53171
+"Pinon Hills, CA",52,53,9,9,53171
+"Pittsburgh, PA",32,32,5,5,40066
+"Pittsburgh, PA",35,35,5,6,40066
+"Plano, TX",45,45,9,9,37582
+"Pleasanton, CA",45,46,7,8,53171
+"Pomona, CA",22,22,4,4,53171
+"Port Byron, IL",38,39,9,7,41395
+"Port Isabel, TX",27,27,5,6,37582
+"Portland, CA",40,40,6,6,53171
+"Portland, OR",38,39,8,9,46193
+"Portland, OR",43,43,9,9,46193
+"Portola Valley, CA",21,22,5,6,53171
+"Presidio, CA",29,29,8,8,53171
+"Queens, NY",39,39,7,7,49623
+"Rancho Cordova, CA",49,49,8,8,53171
+"Rancho Cucamonga, CA",33,34,6,8,53171
+"Rancho Palos Verdes, CA",18,18,8,9,53171
+"Rapid City, SD",54,54,6,6,36864
+"Redwood City, CA",45,45,8,8,53171
+"Redwood City, CA",41,42,6,7,53171
+"Redwood City, CA",40,40,8,8,53171
+"Redwood City, CA",48,48,8,8,53171
+"Renton, WA",36,36,7,8,47231
+"Richmond, CA",38,38,8,8,53171
+"Richmond, CA",66,66,6,8,53171
+"Richmond, CA",68,68,8,9,53171
+"Riverside, CA",22,22,7,7,53171
+"Riverside, CA",26,26,7,7,53171
+"Rochester, NY",39,41,8,7,49623
+"Rocklin, CA",22,22,8,8,53171
+"Roseville, CA",24,24,7,7,53171
+"Roseville, CA",27,27,7,7,53171
+"Sacramento, CA",46,46,7,7,53171
+"Sacramento, CA",54,54,7,7,53171
+"Sacramento, CA",55,56,9,9,53171
+"Sacramento, CA",33,33,9,9,53171
+"Sacramento, CA",36,37,9,9,53171
+"Sacramento, CA",39,39,9,7,53171
+"Sacramento, CA",40,41,6,4,53171
+"Sacramento, CA",43,43,4,4,53171
+"San Anselmo, CA",30,33,3,3,53171
+"San Anselmo, CA",44,44,4,4,53171
+"San Anselmo, CA",47,47,4,5,53171
+"San Anselmo, CA",42,42,6,6,53171
+"San Anselmo, CA",45,46,6,5,53171
+"San Anselmo, CA",49,49,5,6,53171
+"San Bruno, CA",44,44,8,8,53171
+"San Bruno, CA",46,46,8,8,53171
+"San Bruno, CA",42,44,9,8,53171
+"San Bruno, CA",43,43,7,7,53171
+"San Bruno, CA",46,48,7,6,53171
+"San Carlos, CA",46,46,7,7,53171
+"San Carlos, CA",52,52,7,8,53171
+"San Carlos, CA",54,54,8,7,53171
+"San Carlos, CA",35,35,5,5,53171
+"San Carlos, CA",31,31,6,6,53171
+"San Carlos, CA",33,33,6,7,53171
+"San Diego, CA",28,28,6,6,53171
+"San Diego, CA",26,28,7,9,53171
+"San Diego, CA",39,40,7,8,53171
+"San Diego, CA",25,26,6,7,53171
+"San Diego, CA",38,38,9,8,53171
+"San Francisc, CA",32,32,7,7,53171
+"San Francisc, CA",32,32,7,7,53171
+"San Francisco, CA",30,31,8,8,53171
+"San Francisco, CA",33,33,8,8,53171
+"San Francisco, CA",28,29,8,8,53171
+"San Francisco, CA",29,29,7,7,53171
+"San Francisco, CA",31,32,7,8,53171
+"San Francisco, CA",27,27,8,8,53171
+"San Francisco, CA",28,30,7,7,53171
+"San Francisco, CA",32,33,7,8,53171
+"San Francisco, CA",24,24,7,9,53171
+"San Francisco, CA",34,34,8,8,53171
+"San Francisco, CA",31,32,8,8,53171
+"San Francisco, CA",29,30,4,4,53171
+"San Francisco, CA",30,30,9,9,53171
+"San Francisco, CA",30,31,9,9,53171
+"San Francisco, CA",18,19,7,7,53171
+"San Francisco, CA",33,34,9,8,53171
+"San Francisco, CA",20,24,8,8,53171
+"San Francisco, CA",28,28,8,8,53171
+"San Francisco, CA",31,31,8,9,53171
+"San Francisco, CA",24,24,7,7,53171
+"San Francisco, CA",27,27,7,7,53171
+"San Francisco, CA",41,42,8,6,53171
+"San Francisco, CA",26,26,8,8,53171
+"San Francisco, CA",29,29,8,6,53171
+"San Francisco, CA",24,24,9,9,53171
+"San Francisco, CA",27,27,9,7,53171
+"San Francisco, CA",37,39,9,9,53171
+"San Francisco, CA",43,45,8,8,53171
+"San Francisco, CA",31,32,7,8,53171
+"San Francisco, CA",30,30,9,9,53171
+"San Francisco, CA",33,33,9,6,53171
+"San Francisco, CA",29,30,3,2,53171
+"San Francisco, CA",49,52,9,8,53171
+"San Francisco, CA",26,27,8,8,53171
+"San Francisco, CA",27,27,6,6,53171
+"San Francisco, CA",23,24,9,6,53171
+"San Francisco, CA",32,32,6,6,53171
+"San Francisco, CA",34,34,6,7,53171
+"San Francisco, CA",33,33,9,9,53171
+"San Francisco, CA",23,24,8,7,53171
+"San Francisco, CA",26,26,8,9,53171
+"San Francisco, CA",29,30,9,5,53171
+"San Francisco, CA",25,25,8,7,53171
+"San Francisco, CA",48,48,9,9,53171
+"San Francisco, CA",50,50,9,9,53171
+"San Francisco, CA",24,24,8,8,53171
+"San Francisco, CA",29,29,8,6,53171
+"San Francisco, CA",30,31,9,6,53171
+"San Francisco, CA",38,38,9,9,53171
+"San Francisco, CA",42,42,9,9,53171
+"San Francisco, CA",25,25,8,8,53171
+"San Francisco, CA",30,30,8,8,53171
+"San Francisco, CA",25,25,8,8,53171
+"San Francisco, CA",23,24,9,8,53171
+"San Francisco, CA",26,26,8,8,53171
+"San Francisco, CA",31,31,8,9,53171
+"San Francisco, CA",29,29,8,8,53171
+"San Francisco, CA",31,31,5,5,53171
+"San Francisco, CA",33,33,5,6,53171
+"San Francisco, CA",23,23,6,8,53171
+"San Francisco, CA",29,32,9,7,53171
+"San Francisco, CA",35,35,7,9,53171
+"San Francisco, CA",33,33,9,9,53171
+"San Francisco, CA",36,36,8,8,53171
+"San Francisco, CA",35,37,8,9,53171
+"San Francisco, CA",30,31,8,7,53171
+"San Francisco, CA",32,32,9,8,53171
+"San Francisco, CA",33,36,7,5,53171
+"San Francisco, CA",35,36,9,7,53171
+"San Francisco, CA",23,23,8,8,53171
+"San Francisco, CA",25,25,8,6,53171
+"San Francisco, CA",26,27,8,5,53171
+"San Francisco, CA",25,26,8,7,53171
+"San Francisco, CA",25,26,9,8,53171
+"San Francisco, CA",37,37,7,7,53171
+"San Francisco, CA",39,39,7,7,53171
+"San Francisco, CA",26,26,9,7,53171
+"San Francisco, CA",24,25,6,4,53171
+"San Francisco, CA",31,33,9,9,53171
+"San Francisco, CA",35,36,9,8,53171
+"San Francisco, CA",27,27,7,7,53171
+"San Francisco, CA",29,29,7,7,53171
+"San Francisco, CA",33,33,7,7,53171
+"San Francisco, CA",37,37,7,9,53171
+"San Francisco, CA",34,34,9,9,53171
+"San Francisco, CA",36,36,9,9,53171
+"San Francisco, CA",50,50,9,9,53171
+"San Francisco, CA",52,52,9,9,53171
+"San Francisco, CA",26,27,8,8,53171
+"San Francisco, CA",28,30,8,7,53171
+"San Francisco, CA",28,29,8,8,53171
+"San Francisco, CA",30,31,7,7,53171
+"San Francisco, CA",29,30,9,7,53171
+"San Francisco, CA",22,22,9,9,53171
+"San Francisco, CA",32,33,7,6,53171
+"San Francisco, CA",23,23,8,9,53171
+"San Francisco, CA",28,28,8,9,53171
+"San Francisco, CA",32,32,9,9,53171
+"San Francisco, CA",35,35,9,7,53171
+"San Francisco, CA",31,31,8,9,53171
+"San Francisco, CA",37,37,7,7,53171
+"San Francisco, CA",39,39,7,6,53171
+"San Francisco, CA",26,29,9,9,53171
+"San Francisco, CA",51,52,8,9,53171
+"San Francisco, CA",57,57,9,9,53171
+"San Francisco, CA",48,48,9,9,53171
+"San Francisco, CA",53,54,9,9,53171
+"San Francisco, CA",31,31,9,9,53171
+"San Francisco, CA",33,33,9,9,53171
+"San Francisco, CA",61,64,9,9,53171
+"San Francisco, CA",32,32,4,4,53171
+"San Francisco, CA",30,30,9,9,53171
+"San Francisco, CA",34,34,9,8,53171
+"San Francisco, CA",30,30,6,6,53171
+"San Francisco, CA",32,32,6,6,53171
+"San Francisco, CA",24,24,8,8,53171
+"San Francisco, CA",26,26,8,8,53171
+"San Francisco, CA",25,27,9,5,53171
+"San Francisco, CA",28,28,9,9,53171
+"San Francisco, CA",30,31,9,9,53171
+"San Francisco, CA",26,27,5,6,53171
+"San Francisco, CA",51,53,9,9,53171
+"San Francisco, CA",55,59,9,8,53171
+"San Francisco, CA",52,52,6,8,53171
+"San Francisco, CA",34,35,5,7,53171
+"San Francisco, CA",26,26,9,9,53171
+"San Francisco, CA",28,29,9,7,53171
+"San Francisco, CA",37,37,9,9,53171
+"San Francisco, CA",40,40,9,7,53171
+"San Francisco, CA",29,30,7,8,53171
+"San Francisco, CA",33,33,8,8,53171
+"San Francisco, CA",23,23,4,4,53171
+"San Francisco, CA",26,26,8,9,53171
+"San Francisco, CA",26,27,7,7,53171
+"San Francisco, CA",23,24,8,8,53171
+"San Francisco, CA",32,33,7,7,53171
+"San Francisco, CA",30,32,9,7,53171
+"San Francisco, CA",23,24,7,6,53171
+"San Francisco, CA",33,36,8,9,53171
+"San Francisco, CA",30,30,9,9,53171
+"San Francisco, CA",32,32,9,9,53171
+"San Francisco, CA",25,28,8,6,53171
+"San Francisco, CA",38,38,9,9,53171
+"San Francisco, CA",40,40,9,9,53171
+"San Francisco, CA",28,29,8,6,53171
+"San Francisco, CA",45,45,7,7,53171
+"San Francisco, CA",30,30,7,7,53171
+"San Francisco, CA",32,32,7,7,53171
+"San Francisco, CA",22,22,8,8,53171
+"San Francisco, CA",24,24,8,8,53171
+"San Francisco, CA",27,27,8,8,53171
+"San Francisco, CA",32,32,8,8,53171
+"San Francisco, CA",24,24,8,8,53171
+"San Francisco, CA",31,31,7,6,53171
+"San Francisco, CA",30,30,6,7,53171
+"San Francisco, CA",49,51,9,8,53171
+"San Jose, CA",37,37,9,9,53171
+"San Jose, CA",39,39,9,5,53171
+"San Jose, CA",46,46,9,9,53171
+"San Jose, CA",39,39,8,5,53171
+"San Jose, CA",43,43,5,5,53171
+"San Jose, CA",45,46,9,8,53171
+"San Jose, CA",48,49,8,9,53171
+"San Jose, CA",43,43,9,9,53171
+"San Jose, CA",45,45,9,9,53171
+"San Jose, CA",36,36,7,7,53171
+"San Jose, CA",38,44,7,7,53171
+"San Jose, CA",33,34,5,5,53171
+"San Jose, CA",36,36,8,7,53171
+"San Jose, CA",33,33,8,8,53171
+"San Jose, CA",23,24,4,3,53171
+"San Jose, CA",38,39,5,6,53171
+"San Jose, CA",34,34,9,9,53171
+"San Jose, CA",36,36,9,9,53171
+"San Jose, CA",43,44,6,6,53171
+"San Jose, CA",56,56,7,7,53171
+"San Jose, CA",24,25,8,6,53171
+"San Jose, CA",44,44,7,7,53171
+"San Jose, CA",46,48,7,9,53171
+"San Jose, CA",46,48,8,7,53171
+"San Jose, CA",53,53,7,9,53171
+"San Jose, CA",29,29,7,6,53171
+"San Jose, CA",53,53,9,9,53171
+"San Jose, CA",56,56,9,9,53171
+"San Josse, CA",44,44,9,9,53171
+"San Leandro, CA",20,20,6,6,53171
+"San Leandro, CA",22,22,6,5,53171
+"San Leandro, CA",25,26,9,8,53171
+"San Leandro, CA",48,48,9,9,53171
+"San Lorenzo, CA",30,31,8,9,53171
+"San Luis Obispo, CA",26,26,6,6,53171
+"San Luis Obispo, CA",34,35,8,8,53171
+"San Mateo, CA",33,33,7,7,53171
+"San Mateo, CA",35,35,7,7,53171
+"San Mateo, CA",37,37,7,7,53171
+"San Mateo, CA",46,46,9,9,53171
+"San Mateo, CA",46,47,8,8,53171
+"San Mateo, CA",27,27,7,8,53171
+"San Rafael, CA",26,26,8,8,53171
+"San Rafael, CA",29,29,8,8,53171
+"San Rafael, CA",48,51,4,5,53171
+"San Ramon, CA",34,34,7,8,53171
+"Sandy, UT",34,35,4,6,40586
+"Santa Ana, CA",48,48,8,8,53171
+"Santa Ana, CA",51,51,8,9,53171
+"Santa Ana, CA",30,30,8,4,53171
+"Santa Barbara, CA",23,23,8,9,53171
+"Santa Barbara, CA",26,26,9,7,53171
+"Santa Clara, CA",25,25,8,8,53171
+"Santa Clara, CA",42,42,8,8,53171
+"Santa Clara, CA",45,45,8,6,53171
+"Santa Clara, CA",30,30,6,9,53171
+"Santa Cruz, CA",40,40,9,9,53171
+"Santa Cruz, CA",42,46,9,9,53171
+"Santa Cruz, CA",50,51,9,8,53171
+"Santa Cruz, CA",21,21,8,8,53171
+"Santa Cruz, CA",23,23,8,9,53171
+"Santa Cruz, CA",22,22,8,7,53171
+"Santa Fe Springs, CA",23,23,8,8,53171
+"Santa Fe Springs, CA",25,27,8,6,53171
+"Santa Fe Springs, CA",29,30,6,5,53171
+"Santa Maria, CA",29,29,8,8,53171
+"Santa Maria, CA",32,32,8,9,53171
+"Santa Monica, CA",41,43,9,7,53171
+"Santa Monica, CA",30,30,4,5,53171
+"Saratoga, CA",24,24,8,8,53171
+"Scottsdale, AZ",34,34,8,8,39856
+"Scottsdale, AZ",37,38,8,9,39856
+"Seattle, WA",35,35,7,9,47231
+"Seattle, WA",43,44,6,6,47231
+"Seattle, WA",48,48,6,6,47231
+"Sebastopol, CA",26,27,8,7,53171
+"Sherman Oaks, CA",33,36,8,6,53171
+"South Pasadena, CA",31,32,6,6,53171
+"South San Francisco, CA",23,23,9,9,53171
+"Southlake, TX",42,42,7,7,37582
+"Southlake, TX",44,44,7,6,37582
+"Spanish Fort, AL",31,31,8,7,33654
+"Stanford, CA",24,28,4,4,53171
+"Stanford, CA",25,25,9,9,53171
+"Stanford, CA",27,27,9,6,53171
+"Stanford, CA",23,23,8,9,53171
+"Stevenson Ranch, CA",31,32,8,8,53171
+"Stockton, CA",21,23,8,8,53171
+"Stockton, CA",19,20,8,8,53171
+"Stockton, CA",24,24,9,9,53171
+"Stone Mountain, GA",53,54,8,9,38747
+"Sudbury, MA",41,41,4,5,53860
+"Sunnyvale, CA",30,34,9,7,53171
+"Sunnyvale, CA",36,36,7,8,53171
+"Sunnyvale, CA",50,51,7,6,53171
+"Sunnyvale, CA",35,35,8,7,53171
+"Sunnyvale, TX",29,29,9,9,37582
+"Terre Haute, IN",23,23,9,7,36207
+"The Woodlands, TX",45,45,7,7,37582
+"The Woodlands, TX",48,48,7,5,37582
+"Torrance, CA",40,40,9,9,53171
+"Torrance, CA",42,42,9,9,53171
+"Tracy, CA",40,40,6,6,53171
+"Tracy, CA",44,44,6,5,53171
+"Tracy, CA",33,33,8,8,53171
+"Tucson, AZ",39,39,9,9,39856
+"Tucson, AZ",42,42,9,9,39856
+"Tucson, AZ",35,35,7,7,39856
+"Upland, CA",26,26,4,4,53171
+"Upland, CA",28,28,4,4,53171
+"Vail, AZ",32,32,7,7,39856
+"Valencia, CA",37,38,5,5,53171
+"Valencia, CA",40,41,5,6,53171
+"Vallejo, CA",27,28,7,7,53171
+"Victorville, CA",18,19,8,8,53171
+"Walnut Creek, CA",29,29,6,7,53171
+"Walnut Creek, CA",39,40,8,6,53171
+"Walnut Creek, CA",39,39,8,6,53171
+"Walnut Creek, CA",36,36,9,9,53171
+"Walnut Creek, CA",39,39,9,9,53171
+"Walnut Creek, CA",38,38,7,9,53171
+"Walnut Creek, CA",42,42,9,9,53171
+"Walnut Creek, CA",53,54,6,9,53171
+"Walnut Creek, CA",42,43,8,7,53171
+"Walnut Creek, CA",24,24,5,6,53171
+"Washington DC, WA",32,32,9,7,47231
+"Washington DC, WA",44,44,7,8,47231
+"West Chester, PA",31,31,9,7,40066
+"West Los Angeles, CA",24,24,9,7,53171
+"Westerly, RI",20,20,9,8,44481
+"Westford, MA",37,38,7,7,53860
+"Westford, MA",41,41,7,7,53860
+"Westminster, CA",44,45,8,9,53171
+"Wildwood, MO",56,56,9,9,35338
+"Wildwood, MO",61,61,9,9,35338
+"Windsor, CA",43,43,8,8,53171
+"Windsor, CA",47,48,8,9,53171
+"Windsor, CA",52,52,9,9,53171
+"Winsted, CT",51,54,8,6,46912
+"Yorba Linda, CA",42,43,7,9,53171
+"Yorba Linda, CA",45,46,9,9,53171
+"Yorba Linda, CA",49,49,9,9,53171
+"Yorba Linda, CA",42,43,7,9,
+"Yorba Linda, CA",45,46,9,9,
+"Yorba Linda, CA",49,49,9,9,
